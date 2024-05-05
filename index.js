@@ -1,4 +1,6 @@
-// Code your solution in this file!
-dcbdcdwcwcnchkc c'whcbche
-jbcd ccjcyge
-cbndbceuwm
+//code your solution on this file!
+const companyName = 'Scuber';
+let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = 'Susan Smith';
+
+
